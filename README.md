@@ -1,5 +1,7 @@
 # TRACE: Transform Aggregate and Compose visiolinguistic representations for image retrieval with text feedback
-- Authors:  Surgan Jandial, Ayush Chopra, Pinkesh Badjatiya, Pranit Chawla, Mausoom Sarkar, Balaji Krishnamurthy
+- Authors:  Surgan Jandial*, Ayush Chopra*, Pinkesh Badjatiya*, Pranit Chawla, Mausoom Sarkar, Balaji Krishnamurthy.  
+_* denotes equal authors_
+
 
 We use the following for training and testing of our model, reviewers are requested to follow the same if possible. To get started with the framework, install the following dependencies:
 - Python 3.6
