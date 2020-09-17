@@ -8,6 +8,9 @@ We use the following for training and testing of our model, reviewers are reques
 - Install the other dependencies using the pip-freezed package list as `pip install --user -r requirements_freeze.txt`
 
 
+## Download the models
+- Download the models inside the folder `models/` from <https://drive.google.com/file/d/1GpiY3YRGELpt8TXLGvolmzct44XNXujD/view?usp=sharing>
+
 ## Downloading the Dataset 
 Follow the following steps to download the images:
 1. Go to https://github.com/hongwang600/fashion-iq-metadata and into the image_url folder
