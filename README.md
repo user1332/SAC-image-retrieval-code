@@ -1,7 +1,4 @@
-# TRACE: Transform Aggregate and Compose visiolinguistic representations for image retrieval with text feedback
-- Authors:  Surgan Jandial*, Ayush Chopra*, Pinkesh Badjatiya*, Pranit Chawla, Mausoom Sarkar, Balaji Krishnamurthy.  
-_* denotes equal authors_
-
+# CRAFT: Context-aware Recurrent Attentive Fusion for Text-conditioned Image Retrieval
 
 We use the following for training and testing of our model, reviewers are requested to follow the same if possible. To get started with the framework, install the following dependencies:
 - Python 3.6
