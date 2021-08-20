@@ -1,4 +1,4 @@
-# CRAFT: Context-aware Recurrent Attentive Fusion for Text-conditioned Image Retrieval
+# SAC - code
 
 We use the following for training and testing of our model, reviewers are requested to follow the same if possible. To get started with the framework, install the following dependencies:
 - Python 3.6
