@@ -41,7 +41,6 @@ python evaluate_model.py --data_set toptee
 |  Dress | 26.13 +- 0.2 | 52.10 +- 0.2 |
 |  Shirt | 26.20 +- 0.2 | 50.93 +- 0.2 |
 | TopTee | 31.16 +- 0.2 | 59.05 +- 0.2 |
-26.13 52.10 31.16 59.05 26.20 50.93
 
 
 ## License
